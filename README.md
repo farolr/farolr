@@ -17,6 +17,10 @@ I like the unglamorous parts done properly. Access rules that are actually enfor
 One source of truth for 32,000+ active members, plus single sign-on and role-based access for the apps built around it. Every change leaves an audit trail.<br>
 <sub>Laravel · MySQL · Sanctum · REST</sub>
 
+**Integrated accounting system**<br>
+Journal-based accounting for an organization that runs at three levels: national, regional and branch. Dues come in, get split by rule and post as journals at every level, so each office closes its own books from the same data. Logins and roles come from the membership platform through SSO. I own the architecture and lead a team of four, pairing experienced developers with newer ones who build AI-assisted.<br>
+<sub>Laravel · Livewire · MySQL · Tailwind</sub>
+
 **Arunika**<br>
 A trading-signal platform for MetaTrader 5. Strategy, risk and ML all live on the server; the terminal only executes. Walk-forward testing, meta-labeling, admin login behind TOTP.<br>
 <sub>Python · FastAPI · PostgreSQL · LightGBM · Next.js</sub>
