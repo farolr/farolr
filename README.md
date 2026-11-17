@@ -21,6 +21,10 @@ One source of truth for 32,000+ active members, plus single sign-on and role-bas
 Journal-based accounting for an organization that runs at three levels: national, regional and branch. Dues come in, get split by rule and post as journals at every level, so each office closes its own books from the same data. Logins and roles come from the membership platform through SSO. I own the architecture and lead a team of four, pairing experienced developers with newer ones who build AI-assisted.<br>
 <sub>Laravel · Livewire · MySQL · Tailwind</sub>
 
+**Cafe operations platform**<br>
+Everything a growing cafe group runs on, built around one POS. Members get a mobile-first web app with OTP login, points, stamps, rewards and a menu that reads straight from the POS. Staff get a portal for attendance, cash advances and payslips, plus cash-register opening and closing with expenses and denominations. An API turns each day's sales and expenses into accounting journals and monthly reports, so the numbers on the counter and in the books are the same numbers.<br>
+<sub>Laravel · Inertia · Blade · MySQL · REST API · PWA</sub>
+
 **Arunika**<br>
 A trading-signal platform for MetaTrader 5. Strategy, risk and ML all live on the server; the terminal only executes. Walk-forward testing, meta-labeling, admin login behind TOTP.<br>
 <sub>Python · FastAPI · PostgreSQL · LightGBM · Next.js</sub>
