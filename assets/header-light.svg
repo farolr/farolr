@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-label="Fachrul Razi. Software engineer working across interface, service and data, with security through every layer.">
+  <text x="0" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E6E6E" letter-spacing="1">BANDA ACEH, ID  ·  UTC+7</text>
+  <text x="-3" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="66" font-weight="650" fill="#111111" letter-spacing="-2.4">Fachrul Razi</text>
+  <rect x="0" y="152" width="34" height="3" fill="#C2410C"/>
+  <text x="0" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#111111" letter-spacing="-0.3">Software engineer. Backend, security,</text>
+  <text x="0" y="224" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" fill="#111111" letter-spacing="-0.3">and the interface details most people skip.</text>
+  <text x="0" y="276" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E6E6E" letter-spacing="0.5">laravel · python · next.js · postgresql · nist csf · iso 27001</text>
+  <g>
+    <line x1="700" y1="40" x2="700" y2="262" stroke="#C2410C" stroke-width="1.4" stroke-dasharray="3 5"/>
+    <polygon points="700,194.0 830,222.0 700,250.0 570,222.0" fill="#1F1F1F" fill-opacity="0.04" stroke="#1F1F1F" stroke-width="1.2"/><line x1="830" y1="222" x2="856" y2="222" stroke="#C9C9C9" stroke-width="1"/><text x="864" y="226" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E6E6E" letter-spacing="0.5">data</text>
+    <polygon points="700,124.0 830,152.0 700,180.0 570,152.0" fill="#1F1F1F" fill-opacity="0.06" stroke="#1F1F1F" stroke-width="1.2"/><line x1="830" y1="152" x2="856" y2="152" stroke="#C9C9C9" stroke-width="1"/><text x="864" y="156" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E6E6E" letter-spacing="0.5">service</text>
+    <polygon points="700,54.0 830,82.0 700,110.0 570,82.0" fill="#1F1F1F" fill-opacity="0.1" stroke="#1F1F1F" stroke-width="1.2"/><line x1="830" y1="82" x2="856" y2="82" stroke="#C9C9C9" stroke-width="1"/><text x="864" y="86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#6E6E6E" letter-spacing="0.5">interface</text>
+    <circle cx="700" cy="40" r="3.5" fill="#C2410C"/>
+    <text x="712" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#C2410C" letter-spacing="0.5">security</text>
+  </g>
+</svg>
