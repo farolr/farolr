@@ -53,4 +53,4 @@ Most of what I've built is private, because it belongs to clients and organizati
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/fachrul-razi-5669b850/) &nbsp;·&nbsp; Banda Aceh, UTC+7
+[LinkedIn](https://www.linkedin.com/in/farolr/) &nbsp;·&nbsp; Banda Aceh, UTC+7
